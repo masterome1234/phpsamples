@@ -11,7 +11,7 @@ $stringTwo = 'Jerome alvez';
 echo $name," \r\n"; //output 
 echo $c," \r\n";
 echo "hello"," \r\n";//sting output
-
+echo $name," \r\n"; //output 
 ?>
 <!DOCTYPE html>
 <html>
