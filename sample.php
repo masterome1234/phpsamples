@@ -8,6 +8,9 @@ $stringOne = 'My name is';
 $stringTwo = 'Jerome alvez';
 
 
+echo $name," \r\n"; //output 
+echo $c," \r\n";
+echo "hello"," \r\n";//sting output
 
 ?>
 <!DOCTYPE html>
